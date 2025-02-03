@@ -1,6 +1,9 @@
 
 
 # CyberDog: A Case Study on Autonomous Robotic System
+                                   
+![image](https://github.com/user-attachments/assets/fb268d18-26ad-464b-a4de-1cbfe963a279)
+            
 
 ## Overview
 CyberDog is an autonomous robotic system developed by [Company/Research Institute Name]. It represents a leap forward in the integration of artificial intelligence (AI), machine learning (ML), and robotics. This case study explores the design, functionality, and impact of CyberDog, focusing on its capabilities, challenges, and future potential in various industries such as healthcare, entertainment, and security.
